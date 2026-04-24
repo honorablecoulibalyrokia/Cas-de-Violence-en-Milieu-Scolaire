@@ -1,4 +1,3 @@
-# Cas de Violence en Milieu Scolaire
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
